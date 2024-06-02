@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.app-image {
+  height: 100px;
+  align-self: center;
+}
+.app-list-item {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 30px;
+  border-radius: 10px;
+  height: 200px;
+  width: 200px;
+  text-align: center;
+  align-items: center;
+}
+.app-image {
+  align-self: center;
+}

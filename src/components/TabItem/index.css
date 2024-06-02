@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.text-list-item {
+  margin: 10px;
+}
+.app-category-button {
+  background-color: transparent;
+  border-width: 0px;
+  padding-bottom: 5px;
+}
+.text-style {
+  text-decoration-line: underline;
+  text-decoration-thickness: 2px;
+  color: blue;
+}
