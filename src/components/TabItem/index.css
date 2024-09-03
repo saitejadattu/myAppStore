@@ -6,6 +6,7 @@
   background-color: transparent;
   border-width: 0px;
   padding-bottom: 5px;
+  cursor: pointer;
 }
 .text-style {
   text-decoration-line: underline;
